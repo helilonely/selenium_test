@@ -1,0 +1,15 @@
+  - by: By.LINK_TEXT
+    value: 更多
+    action: click
+
+  - by: By.LINK_TEXT
+    value: 图片
+    action: click
+
+  - by: By.ID
+    value: sttb
+    action: click
+
+  - by: By.LINK_TEXT
+    value: 本地上传
+    action: click
